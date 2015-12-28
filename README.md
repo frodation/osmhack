@@ -1,2 +1,2 @@
 # osmhack
-openstreetmap render for roguelike ascii tiles.
+openstreetmap renderer for roguelike ascii tiles.
